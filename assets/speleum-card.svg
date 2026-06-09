@@ -1,0 +1,39 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="110" y1="46" x2="1124" y2="654" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B0B12"/>
+      <stop offset="0.62" stop-color="#131320"/>
+      <stop offset="1" stop-color="#1A1033"/>
+    </linearGradient>
+    <radialGradient id="lamp" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(645 316) rotate(90) scale(204 300)">
+      <stop stop-color="#F5D0FE" stop-opacity="0.95"/>
+      <stop offset="0.35" stop-color="#C084FC" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#C084FC" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="720" rx="28" fill="url(#bg)"/>
+  <path d="M0 630L130 520L222 592L330 452L456 546L558 414L708 566L846 448L980 560L1092 494L1280 620V720H0V630Z" fill="#09090F"/>
+  <path d="M0 676L116 592L228 654L362 506L512 638L640 512L794 664L930 562L1080 658L1280 604V720H0V676Z" fill="#05050A"/>
+  <circle cx="642" cy="300" r="212" fill="url(#lamp)"/>
+  <circle cx="642" cy="300" r="12" fill="#FDF4FF"/>
+  <path d="M642 312L612 380H672L642 312Z" fill="#F5D0FE"/>
+  <circle cx="928" cy="238" r="18" fill="#C026D3" fill-opacity="0.7"/>
+  <circle cx="1002" cy="270" r="10" fill="#A855F7" fill-opacity="0.6"/>
+  <circle cx="288" cy="248" r="14" fill="#7C3AED" fill-opacity="0.45"/>
+  <rect x="82" y="78" width="170" height="34" rx="17" fill="#151021" stroke="#7C3AED"/>
+  <text x="104" y="101" fill="#E9D5FF" font-family="Segoe UI, Arial, sans-serif" font-size="15" letter-spacing="2">FEATURED PROJECT</text>
+  <text x="82" y="176" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="700">Speleum</text>
+  <text x="82" y="226" fill="#D8B4FE" font-family="Segoe UI, Arial, sans-serif" font-size="26">Cave survival web game with limited vision and multiplayer tension.</text>
+  <g transform="translate(82 564)">
+    <rect width="164" height="46" rx="14" fill="#161224" stroke="#7C3AED"/>
+    <text x="22" y="29" fill="#F5F3FF" font-family="Segoe UI, Arial, sans-serif" font-size="18">Next.js + TS</text>
+  </g>
+  <g transform="translate(266 564)">
+    <rect width="164" height="46" rx="14" fill="#161224" stroke="#9333EA"/>
+    <text x="35" y="29" fill="#F5F3FF" font-family="Segoe UI, Arial, sans-serif" font-size="18">Socket.IO</text>
+  </g>
+  <g transform="translate(450 564)">
+    <rect width="164" height="46" rx="14" fill="#161224" stroke="#A855F7"/>
+    <text x="28" y="29" fill="#F5F3FF" font-family="Segoe UI, Arial, sans-serif" font-size="18">Prisma + SQL</text>
+  </g>
+</svg>
