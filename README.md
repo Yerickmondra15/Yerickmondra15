@@ -31,7 +31,7 @@
   <img src="https://komarev.com/ghpvc/?username=Yerickmondra15&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile views" />
 </p>
 
----
+<img src="./assets/pixel-divider.svg" alt="Pixel divider" width="100%" />
 
 ## About Me
 
@@ -106,7 +106,7 @@
   </a>
 </p>
 
----
+<img src="./assets/pixel-divider.svg" alt="Pixel divider" width="100%" />
 
 ## Tech Stack
 
@@ -232,7 +232,7 @@
   </a>
 </p>
 
----
+<img src="./assets/pixel-divider.svg" alt="Pixel divider" width="100%" />
 
 <p align="center">
   <i>Learning, building, improving and shaping creative web experiences one project at a time.</i>
